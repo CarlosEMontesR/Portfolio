@@ -1,0 +1,1 @@
+httpswww.kaggle.comdatasetslava18google-play-store-appsdataselect=googleplaystore_user_reviews.csv
